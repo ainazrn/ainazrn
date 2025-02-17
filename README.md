@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi, I'm nana👋
+
+I am a passionate student, driven by a curiosity for technology
+
+## About Me
+- 🌱 I’m currently pursuing Bachelor of Computer Science (Software Engineering) with Honours
 
 <!--
 **ainazrn/ainazrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
