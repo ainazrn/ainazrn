@@ -1,4 +1,4 @@
-# Hi, I'm nana👋
+# Hi, I'm aina👋
 
 I am a passionate student, driven by a curiosity for technology
 
